@@ -2,3 +2,8 @@ PCA_Lucence.ipynb
 training_Ant.ipynb
 training_Ant1.ipynb
 training_Ant_final.ipynb
+eva_accuracy.csv
+eva_AUC.csv
+eva_F1.csv
+eva_Precision.csv
+eva_Recall.csv
