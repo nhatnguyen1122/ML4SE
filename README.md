@@ -16,4 +16,4 @@ These files train the models using both golden features and F71 features.<br>
 **Evaluation metrics:** Accuracy, Precision, Recall, F1, AUC.
 
 ### 4. **PCA (Principle Component Analysis):**
-These file train AI models using **PCA** method.
+These files train AI models using **PCA** method.
