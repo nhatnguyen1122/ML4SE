@@ -1,0 +1,10 @@
+Name,ratio_0_1,AUC
+CommonsDataset,13.2157,0.6895
+MvnDataset,10.7826,0.9027
+DerbyDataset,10.5302,0.9642
+CassDataset,5.7467,0.9234
+PhoenixDataset,4.687,0.8836
+AntDataset,4.3435,0.7366
+JmeterDataset,3.0267,0.9216
+TomcatDataset,2.5965,0.8551
+LucenceDataset,1.7113,0.8669

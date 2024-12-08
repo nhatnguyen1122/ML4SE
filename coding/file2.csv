@@ -1,0 +1,10 @@
+Name,dataset_size,AUC
+LucenceDataset,3259,0.8669
+CassDataset,2584,0.9234
+DerbyDataset,2479,0.9642
+PhoenixDataset,2235,0.8836
+TomcatDataset,1435,0.8551
+AntDataset,1229,0.7366
+MvnDataset,813,0.9027
+CommonsDataset,725,0.6895
+JmeterDataset,604,0.9216
